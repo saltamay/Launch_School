@@ -25,6 +25,7 @@ The most common use of the command line is what's called "system administration"
 The following is a list of some of the most common commands used on the command line. The exercises will walk you through how to use each of them.
 
 | Command |	Description |
+| --- | --- |
 | cd | Change directory |
 | ls | List files and directories in current directory |
 | pwd | Display the path of the current directory |
